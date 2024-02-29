@@ -12,5 +12,5 @@ func main() {
     if err != nil {
         log.Fatal(err)
     }
-    fmt.Printf("Вы ввели число: %d\n", n)
+    fmt.Printf("Вы ввели данные: %d\n", n)
 }
