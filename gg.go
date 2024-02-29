@@ -13,4 +13,5 @@ func main() {
         log.Fatal(err)
     }
     fmt.Printf("Вы ввели данные: %v\n", n)
+    fmt.Println("Спасибо за предоставленные данные")
 }
